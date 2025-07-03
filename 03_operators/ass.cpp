@@ -1,6 +1,6 @@
 #include <iostream>
 
-// 1) write a program that if total price is gt then 100 so give 5% discount in totalPrice.
+// 1) write a program that if total tea bags is gt then 10 so give 5 extra tea bags in total tea bags.
 int main(){
     double teaBags;
     std::cout << "Enter a certain amount of tea bags you want : ";
